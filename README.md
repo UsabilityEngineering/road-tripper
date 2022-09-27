@@ -8,11 +8,16 @@
 
 Steven Mendez, [click here for the link to my profile](https://usabilityengineering.github.io/ux-portfolio-MinecraftSt3v3/)
 - Personas
+- Scenarios
 - Heuristic evaluations
+- Competative analysis
 ...
 
-Peter M * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-
+Peter Menzies, [Peter Menzies](https://github.com/UsabilityEngineering/ux-portfolio-PJMenzies)
+- Personas
+- Scenarios
+- Heuristic evaluations
+- Competative analysis
 
 
 
