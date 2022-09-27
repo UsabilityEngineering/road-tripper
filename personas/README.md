@@ -2,6 +2,14 @@
 
 ## *Sherry Longbottom*
 
+<table>
+
+<tr>
+<th>
+ <img src="longbottom.jpg" alt="Sherry" width="600" height="500"> 
+</th>
+
+<th>
 Sherry (Boise, Idaho) is a single mother of 3 and she works full time as a remote
 assistant. On the weekends she likes taking the kids out on weekend trips in their family
 camper. She likes getting the kids involved in being outdoors and encourages her kids to take
@@ -9,6 +17,15 @@ part in what the world has to offer.
 
 - Highschool Diploma
 - Works with a law firm as an assistant
+
+</th>
+</tr>
+
+</table>
+
+
+
+
 
 ## *Jackson*
 
