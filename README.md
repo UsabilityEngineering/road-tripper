@@ -11,8 +11,10 @@ Steven Mendez, [click here for the link to my profile](https://usabilityengineer
 - Heuristic evaluations
 ...
 
+Peter M * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+
+
 
 
 # User-Centered Design Artifacts
