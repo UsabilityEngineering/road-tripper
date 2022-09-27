@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-Steven Mendez, [click here for the link to my profile](https://usabilityengineering.github.io/ux-portfolio-MinecraftSt3v3/)
+[Steven Mendez](https://usabilityengineering.github.io/ux-portfolio-MinecraftSt3v3/)
 - Personas
 - Scenarios
 - Heuristic evaluations
