@@ -43,7 +43,7 @@ home town
 
 # Scenarios
 
-##Sherry Longbottom - Done with work and planned a weekend road trip
+## Sherry Longbottom - Done with work and planned a weekend road trip
 Sherry after having a short day of work because there isn't too much work on
 Fridays she gets the kids ready for a 2 night road trip to sawtooth lake. She packs the
 camper with all the basic necessities (food, water, clothes, etc.) and gets the kids (18,
@@ -52,14 +52,14 @@ road trip to the sawtooth mountains. On the way up she and the kids are karaoke
 singing to metalica, and green day, while the youngest is keeping busy on his gameboy
 advance.
 
-##Jackson’s friend is coming to visit
+## Jackson’s friend is coming to visit
 Jackson’s friend Dave is flying in from london in a month. He wants to find a way
 to schedule all the things they are going to do while he’s in America for the first time. He
 specifically wants to feed Dave some biscuits and gravy which Dave says sounds like
 one of the worst concepts birthed by humanity. He’ll be in town for a couple weeks and
 it’d be nice to see what events and activities are available while he’s in town.
 
-##Conner Witts - Him and his buddies are ready to begin their summer adventure
+## Conner Witts - Him and his buddies are ready to begin their summer adventure
 Conner finishes his last class of his junior year, and he and his buddies are
 packing up their cars to go on a summer long trip. Jehn meets Connor and his buddies
 to take off for the road trip. They do basic mechanical checks on their cars to make sure
