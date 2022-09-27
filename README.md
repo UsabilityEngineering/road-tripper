@@ -1,8 +1,6 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Road Tripper
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Road tripper is geared towards the average adventurer. The application’s main features are geared toward helping travelers plan their road trips and predict costs, using great UI. Precisely calculating or estimating costs in multiple levels of detail depending on the information imputed by the adventurer. Road tripper allows the discovery of different activities and events for the road trip. The driving design of this is to enable users to use as much or as little of the application while still having a complete experience. Our goal is to make road tripping accessible to everyone and to get more people to discover all the wonderful things in life.
 
 ## UX Team Members
 
