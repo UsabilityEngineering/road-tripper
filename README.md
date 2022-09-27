@@ -13,7 +13,7 @@ Steven Mendez, [click here for the link to my profile](https://usabilityengineer
 - Competative analysis
 ...
 
-Peter Menzies, [Peter Menzies](https://github.com/UsabilityEngineering/ux-portfolio-PJMenzies)
+[Peter Menzies](https://github.com/UsabilityEngineering/ux-portfolio-PJMenzies)
 - Personas
 - Scenarios
 - Heuristic evaluations
