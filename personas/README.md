@@ -6,7 +6,7 @@
 
 <tr>
 <th>
- <img src="longbottom.jpg" alt="Sherry" width="600" height="500"> 
+ <img src="assets/longbottom.jpeg" alt="Sherry" width="600" height="500"> 
 </th>
 
 <th>
