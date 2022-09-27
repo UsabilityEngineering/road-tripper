@@ -33,7 +33,7 @@ part in what the world has to offer.
 
 <tr>
 <th>
- <img src="assets/jackson.jpeg" alt="jackson" width="1200" height="300"> 
+ <img src="assets/jackson.jpeg" alt="jackson" width="600" height="300"> 
 </th>
 
 <th>
@@ -49,6 +49,7 @@ Goals:
 - Spend time with friends
 - Have a very organized schedule
 - Get good reasons to take time off work
+
 </th>
 </tr>
 
