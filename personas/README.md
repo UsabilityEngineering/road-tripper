@@ -63,7 +63,7 @@ Goals:
 
 <tr>
 <th>
- <img src="assets/Connor.jpeg" alt="conner" width="1000"> 
+ <img src="assets/Connor.jpeg" alt="conner" width="1000" height = "500"> 
 </th>
 
 <th>
