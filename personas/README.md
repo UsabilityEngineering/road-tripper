@@ -27,8 +27,16 @@ part in what the world has to offer.
 
 
 
-## *Jackson*
+## *Jackson Johansen*
 
+<table>
+
+<tr>
+<th>
+ <img src="assets/jackson.jpeg" alt="jackson" width="1200" height="300"> 
+</th>
+
+<th>
 32 year old man from Denver, Colorado
 Telemarketer for Sofia’s Sofa Cleaners
 Associate’s degree in chemistry from Colorado state university.
@@ -41,6 +49,12 @@ Goals:
 - Spend time with friends
 - Have a very organized schedule
 - Get good reasons to take time off work
+</th>
+</tr>
+
+</table>
+
+
 
 ## *Conner Witts*
 21 year old man in Sacramento, California
