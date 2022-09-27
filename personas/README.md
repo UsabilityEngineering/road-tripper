@@ -33,7 +33,7 @@ part in what the world has to offer.
 
 <tr>
 <th>
- <img src="assets/jackson.jpeg" alt="jackson" width="600" height="300"> 
+ <img src="assets/Jackson.jpeg" alt="jackson" width="600" height="300"> 
 </th>
 
 <th>
@@ -58,6 +58,15 @@ Goals:
 
 
 ## *Conner Witts*
+
+<table>
+
+<tr>
+<th>
+ <img src="assets/Connor.jpeg" alt="conner" width="600" height="300"> 
+</th>
+
+<th>
 21 year old man in Sacramento, California
 College Student Studying History at Sac State
 Fridays enjoys hanging out with his friends at Tips (the local bar near campus). He has a group
@@ -71,6 +80,13 @@ Goals:
 home town
 - Find new ways to spend time with friends
 - Enjoy university
+</th>
+</tr>
+
+</table>
+
+
+
 
 
 # Scenarios
