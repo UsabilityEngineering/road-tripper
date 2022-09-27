@@ -33,7 +33,7 @@ part in what the world has to offer.
 
 <tr>
 <th>
- <img src="assets/Jackson.jpeg" alt="jackson" width="600" height="300"> 
+ <img src="assets/Jackson.jpeg" alt="jackson" width="1000" height="300"> 
 </th>
 
 <th>
@@ -63,7 +63,7 @@ Goals:
 
 <tr>
 <th>
- <img src="assets/Connor.jpeg" alt="conner" width="600" height="300"> 
+ <img src="assets/Connor.jpeg" alt="conner" width="1200" height="300"> 
 </th>
 
 <th>
