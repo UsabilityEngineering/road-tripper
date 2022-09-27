@@ -1,6 +1,6 @@
 # Personas
 
-*Sherry Longbottom*
+## *Sherry Longbottom*
 
 Sherry (Boise, Idaho) is a single mother of 3 and she works full time as a remote
 assistant. On the weekends she likes taking the kids out on weekend trips in their family
@@ -10,7 +10,7 @@ part in what the world has to offer.
 - Highschool Diploma
 - Works with a law firm as an assistant
 
-*Jackson*
+## *Jackson*
 
 32 year old man from Denver, Colorado
 Telemarketer for Sofia’s Sofa Cleaners
@@ -25,7 +25,7 @@ Goals:
 - Have a very organized schedule
 - Get good reasons to take time off work
 
-*Conner Witts*
+## *Conner Witts*
 21 year old man in Sacramento, California
 College Student Studying History at Sac State
 Fridays enjoys hanging out with his friends at Tips (the local bar near campus). He has a group
