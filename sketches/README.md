@@ -1,6 +1,6 @@
 # Sketches
 
- <img src="Diagram.jpg" alt="Diagram">
+ <img src="Diagrams.jpg" alt="Diagram">
  
  
-  <img src="Sketch.jpg" alt="Sketch"> 
+  <img src="Sketchs.jpg" alt="Sketch"> 
