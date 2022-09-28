@@ -3,4 +3,4 @@
  <img src="Diagrams.JPG" alt="Diagram">
  
  
-  <img src="Sketchs.JPG" alt="Sketch"> 
+  <img src="Sketches.JPG" alt="Sketch"> 
