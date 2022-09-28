@@ -32,10 +32,11 @@ Road tripper is geared towards the average adventurer. The application’s main 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Conducted competitive analysis which allowed us to understand the currently available applications along with their strengths and weaknesses.
+* Conducted huristic evaluation on our primary competitor to better understand their viability in calculating the price of a trip.
+* Constructed [personas](personas/README.md#personas) to understand use cases and to put a face to the types of users we will have and put them through [scenarios](personas/README.md#scenarios) to see how they might want to use our application.
+* Developed diagrams to workshop the workflow of our application.
+* Developed sketches to get a viable user interface idea.
 
 [Full phase I report](phaseI/)
 
@@ -43,11 +44,7 @@ Road tripper is geared towards the average adventurer. The application’s main 
 
 **Executive Summary**
 
-* Conducted competitive analysis which allowed us to understand the currently available applications along with their strengths and weaknesses.
-* Conducted huristic evaluation on our primary competitor to better understand their viability in calculating the price of a trip.
-* Constructed personas to understand use cases and to put a face to the types of users we will have.
-* Developed diagrams to workshop the workflow of our application.
-* Developed sketches to get a viable user interface idea.
+### COMING SOON
 
 [Full phase II report](phaseII/)
 
@@ -55,9 +52,6 @@ Road tripper is geared towards the average adventurer. The application’s main 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+### COMING SOON
 
 [Full phase III report](phaseIII/)
