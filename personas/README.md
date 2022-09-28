@@ -6,7 +6,7 @@
 
 <tr>
 <th>
- <img src="assets/longbottom.jpeg" alt="Sherry" width="2000" height="300"> 
+ <img src="assets/longbottom.jpeg" alt="Sherry"> 
 </th>
 
 <th>
@@ -33,7 +33,7 @@ part in what the world has to offer.
 
 <tr>
 <th>
- <img src="assets/Jackson.jpeg" alt="jackson" width="900" height="300"> 
+ <img src="assets/Jackson.jpeg" alt="jackson"> 
 </th>
 
 <th>
