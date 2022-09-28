@@ -10,7 +10,6 @@ Road tripper is geared towards the average adventurer. The application’s main 
 - Heuristic evaluations
 - Competative analysis
 - Sketches & Diagram
-...
 
 [Peter Menzies](https://github.com/UsabilityEngineering/ux-portfolio-PJMenzies)
 - Personas
