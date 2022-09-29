@@ -13,12 +13,12 @@ Personas and scenarios allow us to better understand the needs and usage of our 
 
 ## Findings
 ### Competitive Analysis
-* Primary competitor is an application named Roadtrippers which does almost everything we desire to do in a very clean and effective user interface which only has a few minor issues.
-* Discovered that there was no good price calculations using any of the other applications.
-* Discovered a valued feature on other applications is the ability to colaborate on the planning of a trip.
+* Primary competitor is an application named Roadtrippers which does almost everything we desire to do in a very clean and effective user interface that only has a few minor issues.
+* Discovered that there were no good price calculations using any of the other applications.
+* Discovered a valued feature on other applications is the ability to collaborate on the planning of a trip.
 
 ### Heuristic Evaluation of the application Roadtrippers' ability to calculate the cost of a trip
-* Application failed to inform me in a satisfying way the information which I was strying to discover.
+* Application failed to inform me satisfyingly the information which I was strying to discover.
 * Application had no settings to determine the calculations for the cost
 * Application was visually appealing with its landmarks and general theme to the map
 * Documentation was non existant
@@ -27,14 +27,14 @@ Personas and scenarios allow us to better understand the needs and usage of our 
 
 ### Personas and Scenarios
 * Found the need to be simplistic and easy to understand at a glance.
-* Needs time sensitive events and scheduling
-* Needs easy colaboration and the ability to share trips.
+* Needs time-sensitive events and scheduling
+* Needs easy collaboration and the ability to share trips.
 
 ## Conclusions
 Our main point where we can give value to our users is in the cost calculation. The rest of our application's uses can be sufficiently met with the Roadtrippers application. This is not to say there aren't things we can improve on, but the need currently not being met satisfyingly or effectively by the applications available is cost calculation. The other main feature which is less of a priority, but still valuable is the ability to collaborate on road trips. This is a feature lightly touched on with other applications but they hide it behind a paywall.
 
 ## Caveats
-Our main focus in the research was tilted toward this pay calculation feature which we desire. Through our research into the reviews of the application showed no one mentioning the money calculations we still conducted the huristic evaluation as though it were the main purpose of the application.
+Our main focus in the research was tilted toward this pay calculation feature which we desire. Our research into the reviews of the application showed no one mentioned the money calculations we still conducted the heuristic evaluation as though it were the main purpose of the application.
 
-Our personas were not informed by any statistics or research. We simply made characters based on our own feelings and personal experiences.
+Our personas were not informed by any statistics or research. We simply made characters based on our feelings and personal experiences.
 
