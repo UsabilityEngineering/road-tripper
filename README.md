@@ -8,22 +8,18 @@ Road tripper is geared towards the average adventurer. The application’s main 
 - Personas
 - Scenarios
 - Heuristic evaluations
-- Competative analysis
+- Competitive analysis
 - Sketches & Diagram
 
 [Peter Menzies](https://github.com/UsabilityEngineering/ux-portfolio-PJMenzies)
 - Personas
 - Scenarios
 - Heuristic evaluations
-- Competative analysis
+- Competitive analysis
 - Report
 
 
-
-
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!
@@ -34,7 +30,7 @@ Road tripper is geared towards the average adventurer. The application’s main 
 **Executive Summary**
 
 * Conducted competitive analysis which allowed us to understand the currently available applications along with their strengths and weaknesses.
-* Conducted huristic evaluation on our primary competitor to better understand their viability in calculating the price of a trip.
+* Conducted a heuristic evaluation on our primary competitor to better understand their viability in calculating the price of a trip.
 * Constructed [personas](personas/README.md#personas) to understand use cases and to put a face to the types of users we will have and put them through [scenarios](personas/README.md#scenarios) to see how they might want to use our application.
 * Developed diagrams to workshop the workflow of our application.
 * Developed sketches to get a viable user interface idea.
