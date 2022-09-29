@@ -9,7 +9,7 @@
  <img src="assets/longbottom.jpeg" alt="Sherry"> 
 </th>
 
-<th>
+<th style="text-align: left">
 Sherry (Boise, Idaho) is a single mother of 3 and she works full-time as a remote
 assistant. On the weekends she likes taking the kids out on weekend trips in their family
 camper. She likes getting the kids involved in being outdoors and encourages her kids to take
