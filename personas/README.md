@@ -36,7 +36,7 @@ part in what the world has to offer.
  <img src="assets/Jackson.jpeg" alt="jackson"> 
 </th>
 
-<th>
+<td>
 A 32-year-old man from Denver, Colorado
 Telemarketer for Sofia’s Sofa Cleaners
 Associate’s degree in chemistry from Colorado state university.
@@ -50,7 +50,7 @@ Goals:
 - Have a very organized schedule
 - Get good reasons to take time off work
 
-</th>
+</td>
 </tr>
 
 </table>
@@ -62,11 +62,11 @@ Goals:
 <table>
 
 <tr>
-<th>
+<td>
  <img src="assets/Connor.jpeg" alt="conner"> 
-</th>
+</td>
 
-<th>
+<td>
 A 21-year-old man in Sacramento, California
 College Student Studying History at Sac State
 Fridays he enjoys hanging out with his friends at Tips (the local bar near campus). He has a group
@@ -80,7 +80,7 @@ Goals:
 home town
 - Find new ways to spend time with friends
 - Enjoy university
-</th>
+</td>
 </tr>
 
 </table>
