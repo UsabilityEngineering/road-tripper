@@ -29,10 +29,12 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 
 **Executive Summary**
 
-* Conducted competitive analysis which allowed us to understand the currently available applications along with their strengths and weaknesses.
+* **Conducted competitive analysis** which allowed us to understand the currently available applications along with their strengths and weaknesses.:
+<u> Multi filter choice</u>: User is **not able to select multiple filters to show on the map.**  
+<u> Planning page </u>: Planning page was visually busy and may cause a feeling of overwhelming
 * Conducted a heuristic evaluation on our primary competitor to better understand their viability in calculating the price of a trip.
-* Constructed [personas](personas/README.md#personas) to understand use cases and to put a face to the types of users we will have and put them through [scenarios](personas/README.md#scenarios) to see how they might want to use our application.
-* Developed diagrams to workshop the workflow of our application.
+* **Constructed [personas](personas/README.md#personas) ** to understand use cases and to put a face to the types of users we will have and put them through [scenarios](personas/README.md#scenarios) to see how they might want to use our application.
+* ** Developed diagrams ** to workshop the workflow of our application.
 * Developed sketches to get a viable user interface idea.
 
 [Full phase I report](phaseI/)
