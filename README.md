@@ -22,7 +22,7 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 # User-Centered Design Artifacts
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](wireframes/)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
@@ -57,7 +57,7 @@ wireframe design to add a dedicated navigation bar.
 ### COMING SOON
 
 [Full phase II report](phaseII/)
-[Wireframes](wireframes/)
+
 
 # Phase III: Prototypes and User Testing
 
