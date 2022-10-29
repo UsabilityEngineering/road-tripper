@@ -57,6 +57,7 @@ wireframe design to add a dedicated navigation bar.
 ### COMING SOON
 
 [Full phase II report](phaseII/)
+[Wireframes](wireframes/)
 
 # Phase III: Prototypes and User Testing
 
