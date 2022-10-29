@@ -17,7 +17,14 @@ Through this we were able find a new target audience, users who want to plan an 
 
 # Findings
 
-
-
+First thing we learned from phase 2 was that our app layout wasnt as good as we thought.
+- we need a way to tell what page a certain user is on
+- we want to have dedicated pages for certain scenarios like an explore page 
+  - with dedicated filters to have a unique trip or itinerary
+  - pre planned trips fitting certain criteria
+- Having an inital planned out flow of our application is a good start, but is no where near to finished.
+ - througth the cognative walk trhough we were able to make sense of what a better flow would look like, because not always what works for yuo will work for others.
 
 # Conclusion
+
+Throught the use of wireframes we were able to gain feedback from our peers, and with their troubles of navigating our "well thought out layout of our app" we found some changes that could be of great benefit. Having the feed back from Mr. Buffardi we found a new feature that could be implemented to capture a wider audience. Phase 2 was a big realization of not everything you create is the best it could be, and through collaberation it could be significantlly improved for the wider audience (not yourself).
