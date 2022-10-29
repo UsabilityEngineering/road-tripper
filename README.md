@@ -43,6 +43,17 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 
 **Executive Summary**
 
+During phase 2, we have created wire frames based on personas and scenarios.
+With these wireframes a cognitive walkthrough was conducted by our peers. With the
+feedback from our peers we realized different things that we needed to change, like
+having a dedicated navigation bar for the different pages. Through the cognitive walk
+through some users were experiencing difficulty navigating the different pages.
+Something unexpected happened where the wire frames were out of order and they
+weren't viewed the way we intended them to be. We figured out that there was no way
+of knowing where a user was during a workflow, so this led us to make a change in our
+wireframe design to add a dedicated navigation bar.
+
+
 ### COMING SOON
 
 [Full phase II report](phaseII/)
