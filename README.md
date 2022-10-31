@@ -48,8 +48,6 @@ Cognitive walkthroughs were conducted that discovered **new use cases** for our 
 
 Other findings were that the ordering and layout of our wireframes weren't salient. We will work on adding a navigation bar to reduce confusion and improve the **satisfaction** and **efficiency** of our users.
 
-### COMING SOON
-
 [Full phase II report](phaseII/)
 
 
