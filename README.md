@@ -10,13 +10,14 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 - Heuristic evaluations
 - Competitive analysis
 - Sketches & Diagram
+- Phase 2 Report
 
 [Peter Menzies](https://usabilityengineering.github.io/ux-portfolio-PJMenzies/)
 - Personas
 - Scenarios
 - Heuristic evaluations
 - Competitive analysis
-- Report
+- Phase 1 Report
 
 
 # User-Centered Design Artifacts
@@ -43,10 +44,9 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 
 **Executive Summary**
 
-Through cognative walkthroughs we were able to find flaws in the wireframes we initially made
- - some of our findings included having a dedicated nav bar, and dedicated explore page.
-we
+Cognitive walkthroughs were conducted that discovered **new use cases** for our application to support. A redirection from point A to point B road-tripping application to an adventure planner. The *Jackson’s friend is coming to visit* scenario sheds light on the value of **short trips** and other trips with unknown destinations. We explored the KAYAK Explore feature and saw its **potential** to be adapted into our application.
 
+Other findings were that the ordering and layout of our wireframes weren't salient. We will work on adding a navigation bar to reduce confusion and improve the **satisfaction** and **efficiency** of our users.
 
 ### COMING SOON
 
