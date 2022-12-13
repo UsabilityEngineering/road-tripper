@@ -39,12 +39,12 @@ All but one of the users had planned a road trip
 ### Background Question 1: What are some of the tools used to book, plan, or organize this trip?
 100% of the users tested used google maps to plan their road trips as well as at least one other application, but there was no overlap between the other applications between users.
 The other applications listed were:
-Cross country
-Ways
-Tangible maps
-Booking
-Airbnb
-LA
+- Cross country
+- Ways
+- Tangible maps
+- Booking
+- Airbnb
+- LA
 Only one priority was listed from the user testing and that was to have the tools from the application printable or accessible without internet access.
 
 ### Background Question 2: Are there any features you would have liked to have to help you with your search?
