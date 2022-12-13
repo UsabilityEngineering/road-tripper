@@ -24,7 +24,7 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/3c34f33c-9368-4dae-8406-2d9d2a8824bd-6967/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
