@@ -10,14 +10,21 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 - Heuristic evaluations
 - Competitive analysis
 - Sketches & Diagram
+- Prototyping
+- Conducting Study
+- Phase 1 Report
 - Phase 2 Report
+- Phase 3 Report
 
 [Peter Menzies](https://usabilityengineering.github.io/ux-portfolio-PJMenzies/)
 - Personas
 - Scenarios
 - Heuristic evaluations
 - Competitive analysis
+- Prototyping
+- Conducting Study
 - Phase 1 Report
+- Phase 3 Report
 
 
 # User-Centered Design Artifacts
