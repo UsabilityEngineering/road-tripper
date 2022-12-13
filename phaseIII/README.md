@@ -70,9 +70,13 @@ Task one was run four times on our prototype and only once on our competitor Roa
 
 #### Prototype
 100%  Stayed within budget
+
 This was fairly simple as people generally went for a simpler trip and didn't adventure too far out into an expensive trip. Perhaps in the future, we will either change the way this task is worded or remove this data point altogether.
+
 50% were within the 10hr travel requirement
+
 25% Completed the task
+
 The only time this task was completed on the prototype was when the proctor took a more active role stepping in for the prototype to explain what theoretically should be happening.
 
 #### Roadtrippers
@@ -88,13 +92,18 @@ The main failure point for this task was the start and end destination pickers. 
 
 #### Roadtrippers
 "Overwhelmed with options" 
+
 100% Stayed within budget
+
 50% Stayed within time
+
 50% Completed the task
 
 #### Google
 100% Stayed within budget
+
 100% Stayed within time
+
 100% Completed task
 
 ### Task 3
@@ -102,13 +111,18 @@ This task was performed on the prototype three times and on Roadtrippers once.
 
 #### Prototype
 66% Stayed within budget
+
 0% Stayed within the time constraint
+
 100% Completed the task
+
 One stated that it "Felt easy and enjoyable"
 
 #### Roadtrippers
 0% Stayed within budget
+
 0% Stayed within the time constraint
+
 100% Completed the task
 
 ### Closing Wrap-up
