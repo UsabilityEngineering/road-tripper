@@ -53,8 +53,10 @@ Other findings were that the ordering and layout of our wireframes weren't salie
 
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
+User testing found we still require a great deal of work with our prototype and perhaps a reworking of application design as a whole. Google was a common thread of all road trip planners. A few other tools were used in addition, but Google is by far our greatest competitor.
 
-### COMING SOON
+Prototype testing found that many of our users struggled with picking start and destination locations. In future testing we will clearly display the interaction. None of the user tests were able to successfully plan a trip using the application.
+
+We learned that the most satisfying part of our by far with 3/5 users commenting on it was the explore page. I believe this will be our main avenue for providing value to our users value.
 
 [Full phase III report](phaseIII/)
