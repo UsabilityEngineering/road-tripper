@@ -45,6 +45,7 @@ The other applications listed were:
 - Booking
 - Airbnb
 - LA
+
 Only one priority was listed from the user testing and that was to have the tools from the application printable or accessible without internet access.
 
 ### Background Question 2: Are there any features you would have liked to have to help you with your search?
