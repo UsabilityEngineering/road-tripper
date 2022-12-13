@@ -14,7 +14,7 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 - Conducting Study
 - Phase 1 Report
 - Phase 2 Report
-- Phase 3 Report
+- Phase 3 Report Methods and Introduction
 
 [Peter Menzies](https://usabilityengineering.github.io/ux-portfolio-PJMenzies/)
 - Personas
@@ -24,7 +24,7 @@ Cake Trip is geared towards the average adventurer. The application’s main fea
 - Prototyping
 - Conducting Study
 - Phase 1 Report
-- Phase 3 Report
+- Phase 3 Report Findings, Conclusions and Caveats
 
 
 # User-Centered Design Artifacts
