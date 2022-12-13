@@ -1,5 +1,6 @@
 # Phase III: Prototypes and User Testing
 ### Written by Peter Menzies and Steven Mendez
+Phase 3 of our research study included gathering some participants to do a walkthrough of tasks that we created to see how our application would flow. Throughout this phase, we made a consent form that the test subjects had to sign before doing the study. The study consisted of 3 tasks and some pre-task questions regarding the history of traveling. The pre-task questions gave us insight into who the user was and their experience with traveling. This gave us an idea of the different websites they used to plan their road trip. The next tasks were given so that we could gain some insight into how the app flows and where the rough parts of the application were. We were able to recognize the parts that needed to be reworked in order for the user to have a better UI experience.
 
 ## Methods
 
