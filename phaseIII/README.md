@@ -126,7 +126,7 @@ One stated that it "Felt easy and enjoyable"
 100% Completed the task
 
 ### Closing Wrap-up
-By far what the users liked the most was the explore page. Every answered some feature relating to it at the very end.
+By far what the users liked the most was the explore page. Every user who answered what they like about the application responded with some feature relating to the explore page.
 
 What users liked the least was the navigation and filters. They found it confusing and want it to be more straightforward.
 
