@@ -134,6 +134,8 @@ Additional features requested would be navigation in app, help booking, and a re
 
 ## Conclusions
 
+Though the user tests were hampered by the limited prototypes we did discover some interesting aspects, particularly in the results from the background questions. With google being our leading competitor we can look at the niches that they aren't fulfilling. Particularly in trip recommendations. If we expand and develop our explore page to more easily display trips that people are looking for we can provide value to our users. Watching users attempt to construct a trip using Roadtrippers showed some flaws in the display of information they were doing as one user said they were "Overwhelmed with options" we should do further research into how we could best display the information the user is looking for with a focus on starting small and building up rather than the other way around. Seeing the scrolling list of options genuinely sparked excitement in many of the users. Focusing the application on short day trip recommendations from locals of the area would be an excellent avenue to pursue market research in. The prototype is flawed yet the concept intrigues users and there still isn't an application that satisfies the desire for an all-in-one road-tripping application.
+
 ## Caveats
 Our main caveat is that we simply didn't get a wide enough breadth of users to test. All of the users were engineering college students who were taking a class about user experience. There was a complete and total lack of diversity.
 
