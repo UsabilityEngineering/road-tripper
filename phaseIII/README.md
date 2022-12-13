@@ -33,6 +33,89 @@ Within the $1000 budget:
 
 
 ## Findings
+### Background Question 0: Have you ever planned a road trip?
+All but one of the users had planned a road trip
+
+### Background Question 1: What are some of the tools used to book, plan, or organize this trip?
+100% of the users tested used google maps to plan their road trips as well as at least one other application, but there was no overlap between the other applications between users.
+The other applications listed were:
+Cross country
+Ways
+Tangible maps
+Booking
+Airbnb
+LA
+Only one priority was listed from the user testing and that was to have the tools from the application printable or accessible without internet access.
+
+### Background Question 2: Are there any features you would have liked to have to help you with your search?
+Overall there was a theme of wanting help with the things to do on the journey. One wanted things to do, and another wanted alerts mid-journey, but the theme of assistance in event planning was key.
+
+One big quote from one is "Maps are not the same as a road-tripping app." Having everything in one spot easy to access and helping the user every step of the way appears to be a need in the market.
+
+### Background Question 3: Was Cost on your mind when you were planning it?
+
+3/5 users tested stated that price was on their mind during the planning of their trip.
+
+### Background Question 4: Did you spend more than you thought you would?
+
+0/5 users spent more than they thought they would.
+
+### Background Question 5: (If they haven’t planned a road trip) What type of road trip would you like to go on in the future?
+
+No data was collected from this question
+
+### Task 1:
+Task one was run four times on our prototype and only once on our competitor Roadtrippers. 
+
+#### Prototype
+100%  Stayed within budget
+This was fairly simple as people generally went for a simpler trip and didn't adventure too far out into an expensive trip. Perhaps in the future, we will either change the way this task is worded or remove this data point altogether.
+50% were within the 10hr travel requirement
+25% Completed the task
+The only time this task was completed on the prototype was when the proctor took a more active role stepping in for the prototype to explain what theoretically should be happening.
+
+#### Roadtrippers
+The task was not completed, but the trip planned was within budget and within the time constraint.
+
+### Task 2
+This task was performed twice on our application, 
+twice on Roadtrippers, and once on google.
+
+#### Prototype
+The prototype failed to succeed in all user tests.
+The main failure point for this task was the start and end destination pickers. The prototype didn't display the updated selection of the users and this caused a great deal of confusion regarding the manual trip planning.
+
+#### Roadtrippers
+"Overwhelmed with options" 
+100% Stayed within budget
+50% Stayed within time
+50% Completed the task
+
+#### Google
+100% Stayed within budget
+100% Stayed within time
+100% Completed task
+
+### Task 3
+This task was performed on the prototype three times and on Roadtrippers once.
+
+#### Prototype
+66% Stayed within budget
+0% Stayed within the time constraint
+100% Completed the task
+One stated that it "Felt easy and enjoyable"
+
+#### Roadtrippers
+0% Stayed within budget
+0% Stayed within the time constraint
+100% Completed the task
+
+### Closing Wrap-up
+By far what the users liked the most was the explore page. Every answered some feature relating to it at the very end.
+
+What users liked the least was the navigation and filters. They found it confusing and want it to be more straightforward.
+
+Additional features requested would be navigation in app, help booking, and a rework of the car fuel cost.
 
 ## Conclusions
 
