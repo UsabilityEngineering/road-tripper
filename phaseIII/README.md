@@ -15,7 +15,7 @@ This task was designed to test the gas feature of the app, but we found that it 
 
 Task 3: Imagine that a friend from Colorado is visiting Los Angeles, CA, and you want to plan a fun outing for the day. You are not great planners, so try to quickly find something fun to do within a budget of $1000. Note the order of navigation and features used, as well as any mistakes or backtracking.
 
-This task was intended to evaluate the explore feature of the app. We discovered that the button for this feature was not easily visible and required users to search for it in the menu tabs. Despite this, the feature was well-liked by participants, who suggested adding filters for budget, trip length, and group type.
+This task was intended to evaluate the explore feature of the app. We discovered that the button for this feature was not salient and required users to search for it in the menu tabs. Despite this, the feature was well-liked by participants, who suggested adding filters for budget, trip length, and group type.
 
 ## Findings
 ### Background Question 0: Have you ever planned a road trip?
